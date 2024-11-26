@@ -5,6 +5,7 @@ This is a simple static website for **Virtual Knowledge Sessions (VKS)**, an onl
 - A Home Page
 - An About Page
 - A Contact Page
+- A Syllabus Page
 
 ### How to View the Website
 1. Clone the repository.
